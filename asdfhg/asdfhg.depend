@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1444110317 source:c:\users\qi\documents\github\asdfhg\time.cpp
+	"Time.h"
+
+1444110407 c:\users\qi\documents\github\asdfhg\time.h
+	<iostream>
+
+1444111543 source:c:\users\qi\documents\github\asdfhg\coordinte.cpp
+
